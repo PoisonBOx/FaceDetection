@@ -1,0 +1,6 @@
+add_subdirectory(Classifier)
+add_subdirectory(Demo)
+add_subdirectory(Detector)
+add_subdirectory(FeatureExtractor)
+add_subdirectory(Trainer)
+add_subdirectory(SampleGenerator)

@@ -1,0 +1,2 @@
+add_subdirectory(TestModelDemo)
+add_subdirectory(TrainModelDemo)
